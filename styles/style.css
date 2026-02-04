@@ -126,6 +126,7 @@ ol {
 
 .content__video-card-description-container {
   max-width: 196px;
+  flex-grow: 1;
 }
 
 .content__video-card-title {
@@ -155,10 +156,6 @@ ol {
   height: 103px;
   object-fit: cover;
   object-position: top right;
-}
-
-.content__video-card-description-container {
-  flex-grow: 1;
 }
 
 /* Кастомный скроллбар */
