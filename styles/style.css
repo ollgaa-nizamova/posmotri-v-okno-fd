@@ -157,7 +157,7 @@ ol {
 .button {
   border: 1px solid #fff;
   background-color: transparent;
-  font-family: 'Fira Sans Condensed', sans-serif; 
+  font-family: 'Fira Sans Condensed', sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 18px;
@@ -174,7 +174,7 @@ ol {
 }
 
 .button:active {
-  text-decoration: none; 
+  text-decoration: none;
   background: #545050;
 }
 
